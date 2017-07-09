@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Prueba</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.appcelerator.titanium.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.aptana.ide.core.unifiedBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.appcelerator.titanium.mobile.nature</nature>
+		<nature>com.aptana.projects.webnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Resources/android/barney.png</name>
+			<type>1</type>
+			<location>/home/fers/Escritorio/barney.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>

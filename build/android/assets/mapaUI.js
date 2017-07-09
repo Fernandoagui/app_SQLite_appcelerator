@@ -1,0 +1,1 @@
+/home/fers/Appcelerator_Studio_Workspace/Prueba/Resources/mapaUI.js
